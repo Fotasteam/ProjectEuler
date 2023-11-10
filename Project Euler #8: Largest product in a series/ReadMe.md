@@ -65,6 +65,7 @@ long IloczynLiczby(string liczba)
 
 ## Explanation
 
+Another simple problem, we brute force it. We save every possible set of **13-sequence** numbers to **ListOfProducts**. Afterwards, we calculate the product in **IloczynLiczby**. Finally, sort the list to get it chronogically and print the last entry.
 
 # Solution (Hackerrank)
 
@@ -107,3 +108,4 @@ long IloczynLiczby(string liczba, int k)
 
 ## Explanation
 
+Another simple problem, we brute force it. For every **n-digit** number we save every possible set of **k-sequence** numbers to **ListOfProducts**. Afterwards, we calculate the product in **IloczynLiczby**. Finally, sort the list to get it chronogically and print the last entry.
