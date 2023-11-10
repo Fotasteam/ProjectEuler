@@ -13,6 +13,10 @@ First line contains **T** that denotes the number of test cases. This is followe
 
 ***Constraints***
 
+```math
+1 <= T <= 10**5 
+```
+
 ***Output Format***
 
 For each test case, print an integer that denotes the sum of all the multiples of  or  below .
