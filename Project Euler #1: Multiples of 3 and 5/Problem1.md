@@ -62,5 +62,3 @@ for (; i < t; ++i)
 
 This solutionn is way over-engineered, it can easily be answered using brute-force, however hackerranks constraints require a more complex solution.
 - For every n we calculate **sum3**, **sum5** and **sumboth** seperately. Why do we calculate the sum of both? We are going to subtract the instances, where the number is devisable by both **3** and **5**.
-- Sum3 = ```math
--  3 * ((n / 3) * ((n / 3) + 1)) / 2```
