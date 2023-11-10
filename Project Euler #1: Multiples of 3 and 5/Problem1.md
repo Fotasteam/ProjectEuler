@@ -23,7 +23,7 @@ First line contains **T** that denotes the number of test cases. This is followe
 
 ***Output Format***
 
-For each test case, print an integer that denotes the sum of all the multiples of  or  below .
+For each test case, print an integer that denotes the sum of all the multiples of **3** or **5** below **N**.
 
 ***Sample Input 0***
 ```
