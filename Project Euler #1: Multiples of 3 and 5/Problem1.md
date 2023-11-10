@@ -3,13 +3,13 @@
 
 # The Problem (Hackerrank version)
 
-If we list all the natural numbers below  that are multiples of  or , we get  and . The sum of these multiples is .
+If we list all the natural numbers below **10** that are multiples of **3** or **5**, we get **3**, **5**, **6** and **9** . The sum of these multiples is **23**.
 
-Find the sum of all the multiples of  or  below .
+Find the sum of all the multiples of **3** or **5** below **N**.
 
 ***Input Format***
 
-First line contains  that denotes the number of test cases. This is followed by  lines, each containing an integer, .
+First line contains **T** that denotes the number of test cases. This is followed by **T** lines, each containing an integer, **N**.
 
 ***Constraints***
 
