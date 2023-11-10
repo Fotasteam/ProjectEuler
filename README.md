@@ -13,7 +13,7 @@ My solutions are designed to have a 100% rating on [hackerrank](https://www.hack
 ### Solutions Table
 
 | [Problem](https://projecteuler.net/archives) | [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges) | Code | Explained | 100 % | Alternative Solution |
-| :---: | :---:| :---:| :---:|
+| :---: | :---:| :---:| :---:| :---:| :---:|
 | [Problem1](https://projecteuler.net/problem=1) | [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem?isFullScreen=true) | [C#](https://github.com/Fotasteam/ProjectEuler/blob/main/Project%20Euler%20%231%3A%20Multiples%20of%203%20and%205/Problem1.md) | Yes | Yes | None |
 | [Problem2](https://projecteuler.net/problem=2) | [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem?isFullScreen=true) | [C#](https://github.com/Fotasteam/ProjectEuler/blob/main/Project%20Euler%20%232:%20Even%20Fibonacci%20numbers/ReadMe.md) | Yes | Yes | None |
 | [Problem3](https://projecteuler.net/problem=3) | [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler003/problem?isFullScreen=true) | [C#](https://github.com/Fotasteam/ProjectEuler/blob/main/Project%20Euler%20%233%3A%20Largest%20prime%20factor/Main.cs) | No | Yes | None |
