@@ -46,7 +46,8 @@ Print the required answer for each test case.
 ```
 ***Explanation 0***
 
-- For **3675356291** and selecting **K=5** consequetive digits, we have **36753**, **67535**, **75356**, **53562**, **35629** and **56291**. Where ** 6 * 7 * 5 * 3 * 5** gives maximum product as **3150**
+- For **3675356291** and selecting **K=5** consequetive digits, we have **36753**, **67535**, **75356**, **53562**, **35629** and **56291**. Where **6 x 7 x 5 x 3 x 5** gives maximum product as **3150**
+- For **2709360626**, **0** lies in all selection of **5** consequetive digits hence maximum product remains **0**
 
 # Solution (Original problem)
 
