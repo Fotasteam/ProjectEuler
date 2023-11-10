@@ -20,7 +20,7 @@ First line contains **T** that denotes the number of test cases. This is followe
 ```
 
 ```math
-10 \le N \le 4 * $10^16$
+10 \le N \le 4 * 10^{16}
 ```
 
 ***Output Format***
@@ -74,3 +74,4 @@ for (int a0 = 0; a0 < t; a0++)
 
 ## Explanation
 
+This is an easy solution to an easy problem. For every **N** we repeat the loop **T** times. In evry instance of the loop, we brute force our way to our desired element and sum everything.
