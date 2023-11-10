@@ -20,7 +20,7 @@ First line contains **T** that denotes the number of test cases. This is followe
 ```
 
 ```math
-10 \le N \le 4 * (10)^(16)
+10 \le N \le 4 * $(10)^(16)$
 ```
 
 ***Output Format***
