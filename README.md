@@ -12,7 +12,7 @@ My solutions are designed to have a 100% rating on [hackerrank](https://www.hack
 
 ### Solutions Table
  
-| [Problem](https://projecteuler.net/archives) | [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges) | Code | Explained | Main Solution Score | Alternative Solution | Alternative Solution Score |
+| [Problem](https://projecteuler.net/archives) | [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges) | Language | Explained | Main Solution Score | Alternative Solution | Alternative Solution Score |
 | :---: | :---:| :---:| :---:| :---:| :---:| :---:|
 | [Problem 1](https://projecteuler.net/problem=1) | [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem?isFullScreen=true) | [C#](https://github.com/Fotasteam/ProjectEuler/blob/main/Project%20Euler%20%231%3A%20Multiples%20of%203%20and%205/Problem1.md) | Yes | 100% | None |  None | 
 | [Problem 2](https://projecteuler.net/problem=2) | [HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem?isFullScreen=true) | [C#](https://github.com/Fotasteam/ProjectEuler/blob/main/Project%20Euler%20%232:%20Even%20Fibonacci%20numbers/ReadMe.md) | Yes | 100% | None | None | 
