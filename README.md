@@ -8,6 +8,7 @@ Read more about ProjectEuler on the official [website](https://projecteuler.net/
 
 ### About My Solutions
 
-
+My solutions are designed to have a 100% rating on [hackerrank](https://www.hackerrank.com/), which means you can get inspired by them. If any of my solutions doesn't get a full-score on hackerrank I am most likely still working on it, or I included some information about it in the ReadMe.md of the problem.
 
 ### Solutions Graph
+
