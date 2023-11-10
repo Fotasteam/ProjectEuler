@@ -14,7 +14,7 @@ First line contains **T** that denotes the number of test cases. This is followe
 ***Constraints***
 
 ```math
-1 <= T <= 10**5 
+1 <= T <= 10^5
 ```
 
 ***Output Format***
