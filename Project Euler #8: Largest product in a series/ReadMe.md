@@ -37,7 +37,10 @@ string number =
 List<long> ListOfProducts = new List<long>();
 
 for (int i = 0; i < 988; ++i)
-    ListOfProducts.Add(IloczynLiczby(number[i].ToString() + number[i+1].ToString() + number[i + 2].ToString() + number[i + 3].ToString() + number[i + 4].ToString() + number[i + 5].ToString() + number[i + 6].ToString() + number[i + 7].ToString() + number[i + 8].ToString() + number[i + 9].ToString() + number[i + 10].ToString() + number[i + 11].ToString() + number[i + 12].ToString()));
+    ListOfProducts.Add(IloczynLiczby(number[i].ToString() + number[i+1].ToString() + number[i + 2].ToString()
+ + number[i + 3].ToString() + number[i + 4].ToString() + number[i + 5].ToString() + number[i + 6].ToString()
+ + number[i + 7].ToString() + number[i + 8].ToString() + number[i + 9].ToString() + number[i + 10].ToString()
+ + number[i + 11].ToString() + number[i + 12].ToString()));
 
 ListOfProducts.Sort();
 Console.WriteLine(ListOfProducts[ListOfProducts.Count-1]);
