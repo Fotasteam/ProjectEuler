@@ -64,3 +64,46 @@ long IloczynLiczby(string liczba)
 ```
 
 ## Explanation
+
+
+# Solution (Original problem)
+
+## Code (C#)
+
+```csharp
+int t = Convert.ToInt32(Console.ReadLine());
+for (int a0 = 0; a0 < t; a0++)
+{
+    string[] tokens_n = Console.ReadLine().Split(' ');
+    int n = Convert.ToInt32(tokens_n[0]);
+    int k = Convert.ToInt32(tokens_n[1]);
+    string num = Console.ReadLine();
+
+    List<long> ListOfProducts = new List<long>();
+            
+    for (int i = 0; i < num.Length - k + 1; ++i) {
+        string sequence = "";
+        
+        for (int j = 0; j < k; ++j)
+            sequence += num[i + j].ToString();
+        
+        ListOfProducts.Add(IloczynLiczby(sequence, k));
+    }
+    
+    ListOfProducts.Sort();
+    Console.WriteLine(ListOfProducts[ListOfProducts.Count-1]);
+}
+
+long IloczynLiczby(string liczba, int k)
+{
+    long number = 1;
+    
+    for (int i = 0; i < k; ++i) 
+        number *= long.Parse(liczba[i].ToString());
+    
+    return number;
+}
+```
+
+## Explanation
+
