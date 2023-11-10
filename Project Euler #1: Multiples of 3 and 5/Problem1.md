@@ -15,6 +15,8 @@ First line contains **T** that denotes the number of test cases. This is followe
 
 ```math
 1 \le T \le 10^5
+```
+```math
 1 \le N \le 10^9
 ```
 
