@@ -66,7 +66,7 @@ long IloczynLiczby(string liczba)
 ## Explanation
 
 
-# Solution (Original problem)
+# Solution (Hackerrank)
 
 ## Code (C#)
 
