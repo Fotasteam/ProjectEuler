@@ -14,8 +14,8 @@ First line contains **T** that denotes the number of test cases. This is followe
 ***Constraints***
 
 ```math
-1 \le T \le 10^5__
-1 \le N \le 10^9__
+1 \le T \le 10^5  
+1 \le N \le 10^9  
 ```
 
 ***Output Format***
