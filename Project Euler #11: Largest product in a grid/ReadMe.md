@@ -39,20 +39,12 @@ Input consists of **20** lines each containing **20** integers.
 ***Constraints***
 
 ```math
-1 \le T \le 100 <br />
-```
-
-```math
-1 \le K \le 7 <br />
-```
-
-```math
-K \le N \le 1000
+0 \le Each integer in the grid \le 100 <br />
 ```
 
 ***Output Format***
 
-Print the required answer for each test case.
+Print the required answer.
 
 ***Sample Input 0***
 ```
