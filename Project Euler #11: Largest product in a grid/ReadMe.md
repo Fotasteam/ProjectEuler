@@ -1,4 +1,4 @@
-# Problem #8: Largest product in a grid
+# Problem #11: Largest product in a grid
 
 [ProjectEuler link](https://projecteuler.net/problem=11)
 [Hackerrank link](https://www.hackerrank.com/contests/projecteuler/challenges/euler011/problem?isFullScreen=true)
