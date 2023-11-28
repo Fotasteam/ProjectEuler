@@ -30,13 +30,11 @@ In the **20x20** grid below, four numbers along a diagonal line have been marked
 
 The product of these numbers is **26x63x78x14=1788696**.
 
-What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the  grid?
+What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in the **20x20** grid?
 
 ***Input Format***
 
-First line contains **T** that denotes the number of test cases.
-First line of each test case will contain two integers **N** & **K**.
-Second line of each test case will contain a **N** digit integer.
+Input consists of **20** lines each containing **20** integers.
 
 ***Constraints***
 
